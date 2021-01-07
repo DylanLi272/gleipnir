@@ -2,11 +2,15 @@
 
 ## Development Information
 
-Based on Gleipnir tool by Tomislav (Tommy) Janjusic.
-
 ## Goal
 
 Allow Gleipnir to run on current version of Valgrind (3.17)
+
+## Setup
+
+```bash
+git clone https://github.com/The-Box-Lord/gleipnir.git
+```
 
 ## Old README
 
